@@ -15,9 +15,7 @@ pip install PyPDF2
 
 ## Usage
 
-1. **Clone the Repository**
-
-2. **Set the paths**
+1. **Set the paths**
 
    Modify the script to include the paths of the PDFs you want to merge and the output file name. Example:
 
